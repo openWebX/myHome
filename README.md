@@ -1,0 +1,2 @@
+# myHome
+Homeautomation made easy
